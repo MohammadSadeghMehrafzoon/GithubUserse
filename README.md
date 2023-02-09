@@ -1,6 +1,11 @@
 # GithubUserse
 
 
+# Methodologies used:
+
+1. Clean Architecture
+2. MVVM Pattern
+
 # Libraries used:
 
 1. Rx java
@@ -8,7 +13,7 @@
 3. picasso - image processing library
 4. Retrofit
 5. shimmer - Shimmer Effect For Android Recyclerview
-6.Room
+6. Room
 
 
 # APK download link
