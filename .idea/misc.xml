@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/search_view_background.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/shimmer_profile.xml" value="0.176" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/shimmer_text_view.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/tab_color_selector.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/drawable/tab_selected.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/card_user.xml" value="0.2" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/fragment_detail.xml" value="0.176" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/fragment_favorite.xml" value="0.2" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/fragment_folloing.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/fragment_followers.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/fragment_following.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/fragment_splash_screen.xml" value="0.176" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/shimmer_card_user.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/daris.DESKTOP-L1BQ02N.000/AndroidStudioProjects/GithubUsers/app/src/main/res/layout/shimmer_layout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

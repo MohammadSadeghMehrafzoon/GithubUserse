@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_result">Search for username :)</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="network">Check your internet</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_data">No data available</string>
+    <string name="removed_favorites">Removed from favorites list</string>
+    <string name="text_delete_favorite">Are you sure you want to delete this?</string>
+    <string name="add_favorite">Add to favorites?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
